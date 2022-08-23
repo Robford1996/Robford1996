@@ -25,11 +25,11 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
   * jQuery
   
  # Languages I am currently learning:
-    *Python
+  * Python
   
   # Languages I would like to learn:
-    *React
-    *Ruby on Rails
+   * React
+   * Ruby on Rails
     
    # Previous Work History: 
    

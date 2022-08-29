@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an aspiring Software Engineer currently enrolled at General Assembly bootcamp. 
 
-# Languages I am proficient in:
+# Languages/Frameworks I am proficient in:
   * Ruby
   * HTML
   * CSS
   * JavaScript 
   * jQuery
   
- # Languages I am currently learning:
+ # Languages/Frameworks I am currently learning:
   * Python
+  * Express
   
   # Languages I would like to learn:
    * React

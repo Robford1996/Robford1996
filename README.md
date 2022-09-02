@@ -23,14 +23,16 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
   * CSS
   * JavaScript 
   * jQuery
-  
- # Languages/Frameworks I am currently learning:
-  * Python
   * JSON
   * Express
   * EJS
   
-  # Languages I would like to learn:
+ # Languages/Frameworks I am currently learning:
+  * Python
+  * MongoDB
+  * MongooseJS
+  
+  # Languages/Frameworks I would like to learn:
    * React
    * Ruby on Rails
     

@@ -26,14 +26,15 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
   * JSON
   * Express
   * EJS
-  
- # Languages/Frameworks I am currently learning:
-  * Python
   * MongoDB
   * MongooseJS
   
+ # Languages/Frameworks I am currently learning:
+  * React
+  * Python
+
+  
   # Languages/Frameworks I would like to learn:
-   * React
    * Ruby on Rails
     
    # Previous Work History: 

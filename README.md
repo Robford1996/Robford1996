@@ -19,6 +19,7 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
 
 # Languages/Frameworks I am proficient in:
   * Ruby
+  * React
   * HTML
   * CSS
   * JavaScript 
@@ -30,7 +31,6 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
   * MongooseJS
   
  # Languages/Frameworks I am currently learning:
-  * React
   * Python
 
   

@@ -29,13 +29,16 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
   * EJS
   * MongoDB
   * MongooseJS
+  * Python
+  * Django
   
  # Languages/Frameworks I am currently learning:
-  * Python
+  * Ruby on Rails
 
   
   # Languages/Frameworks I would like to learn:
-   * Ruby on Rails
+   * C++
+   * Java
     
    # Previous Work History: 
    

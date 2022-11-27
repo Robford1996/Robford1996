@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 
 My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an aspiring Software Engineer currently enrolled at General Assembly bootcamp. 
-
-# Languages/Frameworks I am proficient in:
+ 
+# Languages/Frameworks I am proficient in: 
   * Ruby
   * React
   * HTML

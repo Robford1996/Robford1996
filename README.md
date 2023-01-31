@@ -36,6 +36,8 @@ My name is Robert Ford, though I generally go by Bobby, pronouns He/Him. I am an
   
  # Languages/Frameworks I am currently learning:
   * Java
+  * Next.JS
+  * TypeScript
 
   
   # Languages/Frameworks I would like to learn:
